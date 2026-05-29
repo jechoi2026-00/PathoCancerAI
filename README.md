@@ -200,26 +200,26 @@ The picture below shows example outputs from the Streamlit web application. It i
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img width="287" height="292" alt="image" src="https://github.com/user-attachments/assets/32f30c48-10ad-4399-8a52-06d5d588c17f" />
+            <b>Cancer Tissue AI Prediction Result and Probability</b>
       <br>
-      <b>Cancer Tissue AI Prediction Result and Probability</b>
+      <img width="287" height="292" alt="image" src="https://github.com/user-attachments/assets/32f30c48-10ad-4399-8a52-06d5d588c17f" />
     </td>
     <td align="center" width="50%">
-      <img width="258" height="263" alt="Normal Tissue AI Prediction Result and Probability" src="https://github.com/user-attachments/assets/f65d00cf-5d4b-48ca-b5f9-018bd103e140" />
-      <br>
+            <br>
       <b>Normal Tissue AI Prediction Result and Probability</b>
+      <img width="287" height="292" alt="Normal Tissue AI Prediction Result and Probability" src="https://github.com/user-attachments/assets/f65d00cf-5d4b-48ca-b5f9-018bd103e140" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img width="376" height="210" alt="image" src="https://github.com/user-attachments/assets/4f51eda9-6f01-45ab-a67f-557dccd6cba9" />
-      <br>
+            <br>
       <b>Cancer Tissue AI Description Report</b>
+      <img width="369" height="243" alt="image" src="https://github.com/user-attachments/assets/4f51eda9-6f01-45ab-a67f-557dccd6cba9" />
     </td>
     <td align="center" width="50%">
-      <img width="369" height="243" alt="image02" src="https://github.com/user-attachments/assets/839475fa-62aa-4d9f-9cb8-c1fff79a4ba1" />
-      <br>
+            <br>
       <b>Normal Tissue AI Description Report</b>
+      <img width="369" height="243" alt="image02" src="https://github.com/user-attachments/assets/839475fa-62aa-4d9f-9cb8-c1fff79a4ba1" />
     </td>
   </tr>
 </table>
