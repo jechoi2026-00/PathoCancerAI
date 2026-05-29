@@ -420,12 +420,52 @@ threshold = 0.4380
 
 ---
 
-## 20. License
+## 20. Dataset Notice
+
+This project was trained using the **Kaggle Histopathologic Cancer Detection** dataset.
+
+Dataset source: https://www.kaggle.com/c/histopathologic-cancer-detection
+
+The original dataset and preprocessed training files such as `split_data/`, `.npy`, or `.npz` files are not included in this repository.  
+Users who want to reproduce the training process should download the dataset directly from Kaggle and follow Kaggle's competition rules and dataset usage terms.
+
+The Streamlit application does not require the `split_data/` folder to run.  
+It only requires the trained model artifacts:
+
+- `final_rf_model.pkl`
+- `scaler.pkl`
+- `selected_features.pkl`
+
+---
+
+## 21. License
 
 This project source code is licensed under the **MIT License**.
 
 For more details, see the root-level `LICENSE` file.
 
-> Note: The MIT License applies to the source code in this repository.  
-> The Kaggle dataset is not included in this repository and is subject to Kaggle's own competition rules and dataset usage terms.
+> Note: The MIT License applies only to the source code in this repository.  
+> The Kaggle Histopathologic Cancer Detection dataset is not included in this repository and remains subject to Kaggle's own competition rules and dataset usage terms.
+
+---
+
+## 22. Copyright
+
+Copyright (c) 2026 Jeongeun Choi.
+
+This project was developed for academic and educational purposes as a machine learning-based histopathology image analysis system.
+
+All medical image data, dataset ownership, and dataset distribution rights belong to their respective providers.  
+This project does not claim ownership of the original Kaggle dataset.
+
+---
+
+## 23. Disclaimer
+
+This project is a research and educational prototype.  
+It is not intended for clinical diagnosis, treatment decision-making, or medical judgment.
+
+The prediction results should not be used as a substitute for professional medical advice.  
+Final interpretation must be performed by qualified medical professionals or pathology specialists.
+
 
