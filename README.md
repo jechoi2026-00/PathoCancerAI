@@ -424,6 +424,10 @@ threshold = 0.4380
 
 ## 20. License
 
-This project is licensed under the MIT License.
+This project source code is licensed under the **MIT License**.
 
-For more details, see the `LICENSE` file.
+For more details, see the root-level `LICENSE` file.
+
+> Note: The MIT License applies to the source code in this repository.  
+> The Kaggle dataset is not included in this repository and is subject to Kaggle's own competition rules and dataset usage terms.
+
