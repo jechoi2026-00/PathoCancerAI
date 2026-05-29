@@ -1,4 +1,4 @@
-# DiagnosisAI
+# PathoCancerAI
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?logo=streamlit&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## 1. Project Overview
 
-**DiagnosisAI** is a machine learning-based web application that predicts whether a lymph node histopathology image patch is likely to contain metastatic cancer tissue.
+**PathoCancerAI** is a machine learning-based web application that predicts whether a lymph node histopathology image patch is likely to contain metastatic cancer tissue.
 
 When a user uploads a 96×96 pixel pathology image patch (`.tif`, `.png`, or `.jpg`), the system extracts color, texture, and fine-pattern features from the image. It then uses a trained Random Forest model to calculate the probability that the tissue is suspicious for cancer. The prediction results are visualized in the Streamlit web interface using a risk gauge, key-feature charts, a regional risk heatmap, and a radar chart.
 
@@ -248,7 +248,7 @@ The Streamlit application consists of the following interface components.
 The repository structure is shown below.
 
 ```text
-DiagnosisAI/
+PathoCancerAI/
 ├── README.md
 ├── app.py
 ├── requirements.txt
@@ -281,8 +281,8 @@ DiagnosisAI/
 ### 14.1 Clone the Repository
 
 ```bash
-git clone https://github.com/jechoi2026-00/DiagnosisAI.git
-cd DiagnosisAI
+git clone https://github.com/jechoi2026-00/PathoCancerAI.git
+cd PathoCancerAI
 ```
 
 ### 14.2 Create a Virtual Environment
