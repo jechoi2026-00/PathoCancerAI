@@ -245,7 +245,7 @@ The Streamlit application consists of the following interface components.
 
 ## 12. Project File Structure
 
-The recommended repository structure is shown below.
+The repository structure is shown below.
 
 ```text
 DiagnosisAI/
@@ -255,8 +255,6 @@ DiagnosisAI/
 ├── final_rf_model.pkl
 ├── scaler.pkl
 ├── selected_features.pkl
-├── assets/
-│   └── diagnosisai_streamlit_screenshot.png
 ├── .gitignore
 └── LICENSE
 ```
