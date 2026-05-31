@@ -19,7 +19,7 @@ When a user uploads a 96×96 pixel pathology image patch (`.tif`, `.png`, or `.j
 ---
 
 ## 2. Project Topic
-
+- **Project Duration**: 2026. 3. 27 ~ 2026. 4. 3
 - **Project title**: Prediction of Metastatic Cancer Tissue Using Lymph Node Data
 - **Analysis target**: Lymph node histopathology image patches
 - **Prediction task**: Binary classification of normal tissue and metastatic cancer tissue
